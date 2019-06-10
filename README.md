@@ -27,3 +27,10 @@ Dans PyZo :
 ```
 
 ## Conclusions
+
+Dans la figure, on voit :
+ * AES en carres bleus
+ * DES en pointiles verts
+ * 3DES en carres verts 
+ * Blowfish en pointilles bleus
+ * RSA en traingles rouges
