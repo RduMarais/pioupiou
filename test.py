@@ -64,7 +64,8 @@ def faire_graphe(resultats):
 	# Blowfish en pointilles bleus
 	plt.plot(axe,aes,'bs',axe,des3,'gs',axe,des,'g--',axe,blow,'b--',axe[:3],rsa[:3],'r^')
 	plt.title('Vitesse des algorithmes en fonction de la taille du message à chiffrer')
-	plt.show()
+	# plt.show()
+	plt.savefig('resultats_tpe.jpg')
 
 
 def tester(msgSize):
