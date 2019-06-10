@@ -2,6 +2,8 @@
 
 Le script suivant a été codé en collaboration avec Marion M. Il génère des messages de tailles variables et chronomètre leur chiffrement par différents algorithmes de cryptographie.
 
+Pour en savoir plus sur la cryptographie, ça se passe [ici](https://www.youtube.com/watch?v=U09aDyDGOVM)
+
 ##Usage
 
 ### installation
