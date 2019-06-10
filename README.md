@@ -34,3 +34,5 @@ Dans la figure, on voit :
  * 3DES en carres verts 
  * Blowfish en pointilles bleus
  * RSA en traingles rouges
+
+![le graphe](https://github.com/RduMarais/pioupiou/blob/master/resultats.png "les fameux résultats")
